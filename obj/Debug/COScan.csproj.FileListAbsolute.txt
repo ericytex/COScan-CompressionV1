@@ -1,0 +1,15 @@
+C:\Users\ewaty\source\repos\COScan\COScan\bin\Debug\COScan.exe
+C:\Users\ewaty\source\repos\COScan\COScan\bin\Debug\COScan.pdb
+C:\Users\ewaty\source\repos\COScan\COScan\obj\Debug\COScan.csprojAssemblyReference.cache
+C:\Users\ewaty\source\repos\COScan\COScan\obj\Debug\COScan.csproj.CoreCompileInputs.cache
+C:\Users\ewaty\source\repos\COScan\COScan\obj\Debug\COScan.exe
+C:\Users\ewaty\source\repos\COScan\COScan\obj\Debug\COScan.pdb
+C:\Users\ewaty\source\repos\COScan\COScan\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ewaty\source\repos\COScan\COScan\obj\Debug\COScan.csproj.CopyComplete
+C:\Users\ewaty\source\repos\COScan\COScan\bin\Debug\COScan.exe.config
+C:\Users\ewaty\source\repos\COScan\COScan\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\ewaty\source\repos\COScan\COScan\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\ewaty\source\repos\COScan\COScan\bin\Debug\COScan.exe.manifest
+C:\Users\ewaty\source\repos\COScan\COScan\bin\Debug\COScan.application
+C:\Users\ewaty\source\repos\COScan\COScan\obj\Debug\COScan.exe.manifest
+C:\Users\ewaty\source\repos\COScan\COScan\obj\Debug\COScan.application
